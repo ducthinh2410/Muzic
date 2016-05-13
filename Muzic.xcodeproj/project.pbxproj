@@ -13,13 +13,6 @@
 		1B2A5B7C1CE1184900CF235F /* UIFontExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B2A5B7B1CE1184900CF235F /* UIFontExtension.swift */; };
 		1B2A5B7E1CE119F600CF235F /* SongListDataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B2A5B7D1CE119F600CF235F /* SongListDataSource.swift */; };
 		1B2A5B801CE120A800CF235F /* SongDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B2A5B7F1CE120A800CF235F /* SongDetailViewController.swift */; };
-		1B2A5B821CE12CAB00CF235F /* 1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B2A5B811CE12CAB00CF235F /* 1.swift */; };
-		1B2A5B841CE12CB400CF235F /* 2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B2A5B831CE12CB400CF235F /* 2.swift */; };
-		1B2A5B861CE12CBD00CF235F /* 3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B2A5B851CE12CBD00CF235F /* 3.swift */; };
-		1B2A5B881CE12CC500CF235F /* 4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B2A5B871CE12CC500CF235F /* 4.swift */; };
-		1B2A5B8A1CE12CCD00CF235F /* 5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B2A5B891CE12CCD00CF235F /* 5.swift */; };
-		1B2A5B8C1CE12CD700CF235F /* 6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B2A5B8B1CE12CD700CF235F /* 6.swift */; };
-		1B2A5B8E1CE12CE000CF235F /* 7.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B2A5B8D1CE12CE000CF235F /* 7.swift */; };
 		1B5EBC201CE068DC007703FC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B5EBC1F1CE068DC007703FC /* AppDelegate.swift */; };
 		1B5EBC221CE068DC007703FC /* SongListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B5EBC211CE068DC007703FC /* SongListViewController.swift */; };
 		1B5EBC251CE068DC007703FC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1B5EBC231CE068DC007703FC /* Main.storyboard */; };
@@ -54,13 +47,6 @@
 		1B2A5B7B1CE1184900CF235F /* UIFontExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIFontExtension.swift; sourceTree = "<group>"; };
 		1B2A5B7D1CE119F600CF235F /* SongListDataSource.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SongListDataSource.swift; sourceTree = "<group>"; };
 		1B2A5B7F1CE120A800CF235F /* SongDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SongDetailViewController.swift; sourceTree = "<group>"; };
-		1B2A5B811CE12CAB00CF235F /* 1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = 1.swift; sourceTree = "<group>"; };
-		1B2A5B831CE12CB400CF235F /* 2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = 2.swift; sourceTree = "<group>"; };
-		1B2A5B851CE12CBD00CF235F /* 3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = 3.swift; sourceTree = "<group>"; };
-		1B2A5B871CE12CC500CF235F /* 4.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = 4.swift; sourceTree = "<group>"; };
-		1B2A5B891CE12CCD00CF235F /* 5.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = 5.swift; sourceTree = "<group>"; };
-		1B2A5B8B1CE12CD700CF235F /* 6.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = 6.swift; sourceTree = "<group>"; };
-		1B2A5B8D1CE12CE000CF235F /* 7.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = 7.swift; sourceTree = "<group>"; };
 		1B5EBC1C1CE068DC007703FC /* Muzic.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Muzic.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1B5EBC1F1CE068DC007703FC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1B5EBC211CE068DC007703FC /* SongListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SongListViewController.swift; sourceTree = "<group>"; };
@@ -144,13 +130,6 @@
 				1B5EBC281CE068DC007703FC /* LaunchScreen.storyboard */,
 				1B5EBC2B1CE068DC007703FC /* Info.plist */,
 				1B5EBC4D1CE06CBE007703FC /* Muzic-Bridging-Header.h */,
-				1B2A5B811CE12CAB00CF235F /* 1.swift */,
-				1B2A5B831CE12CB400CF235F /* 2.swift */,
-				1B2A5B851CE12CBD00CF235F /* 3.swift */,
-				1B2A5B871CE12CC500CF235F /* 4.swift */,
-				1B2A5B891CE12CCD00CF235F /* 5.swift */,
-				1B2A5B8B1CE12CD700CF235F /* 6.swift */,
-				1B2A5B8D1CE12CE000CF235F /* 7.swift */,
 			);
 			path = Muzic;
 			sourceTree = "<group>";
@@ -374,18 +353,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				1B2A5B781CE1170700CF235F /* Song.swift in Sources */,
-				1B2A5B8A1CE12CCD00CF235F /* 5.swift in Sources */,
 				1B5EBC221CE068DC007703FC /* SongListViewController.swift in Sources */,
 				1B2A5B801CE120A800CF235F /* SongDetailViewController.swift in Sources */,
-				1B2A5B821CE12CAB00CF235F /* 1.swift in Sources */,
 				1B2A5B7A1CE117A600CF235F /* NSAttributedString.swift in Sources */,
-				1B2A5B8E1CE12CE000CF235F /* 7.swift in Sources */,
 				1B5EBC201CE068DC007703FC /* AppDelegate.swift in Sources */,
-				1B2A5B881CE12CC500CF235F /* 4.swift in Sources */,
-				1B2A5B8C1CE12CD700CF235F /* 6.swift in Sources */,
-				1B2A5B841CE12CB400CF235F /* 2.swift in Sources */,
 				1B2A5B7E1CE119F600CF235F /* SongListDataSource.swift in Sources */,
-				1B2A5B861CE12CBD00CF235F /* 3.swift in Sources */,
 				1B2A5B7C1CE1184900CF235F /* UIFontExtension.swift in Sources */,
 				1B2A5B761CE1167000CF235F /* SongNode.swift in Sources */,
 			);

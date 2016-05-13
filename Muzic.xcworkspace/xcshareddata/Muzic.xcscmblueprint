@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C54143DA493F66E0183C83E59EC96FCBE89439D7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "ED828D274BFCA1F8F1CA8CA85C387F3D3E3637A6" : 0,
+    "C54143DA493F66E0183C83E59EC96FCBE89439D7" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A2718D57-FA6D-48D4-B82C-85D389E836AE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "ED828D274BFCA1F8F1CA8CA85C387F3D3E3637A6" : "..",
+    "C54143DA493F66E0183C83E59EC96FCBE89439D7" : "Muzic\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Muzic",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Muzic.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ducthinh2410\/Muzic.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C54143DA493F66E0183C83E59EC96FCBE89439D7"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/bitbucket.org\/tungvo\/buddify.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "ED828D274BFCA1F8F1CA8CA85C387F3D3E3637A6"
+    }
+  ]
+}

@@ -13,7 +13,7 @@ class SongListDataSource: NSObject, ASTableDataSource, ASTableDelegate {
     
     init(tableNode: ASTableNode, viewController: UIViewController) {
         super.init()
-        
+
         _tableNode = tableNode
         _tableNode?.dataSource = self
         _tableNode?.delegate = self
@@ -26,7 +26,7 @@ class SongListDataSource: NSObject, ASTableDataSource, ASTableDelegate {
             let song = Song()
             song.artistName = LoremIpsum.name()
             song.songName = LoremIpsum.wordsWithNumber(Int(rand() % 4) + 1) //Song name's number of words range is 1...4
-            let size: CGFloat = CGFloat(rand() % 100) + 300 //Size range is 100...199
+            let size: CGFloat = CGFloat(rand() % 100) + 200 //Size range is 100...299
             song.songThumbnail = LoremIpsum.URLForPlaceholderImageWithSize(CGSize(width: size, height: size))
             print(song.songThumbnail)
             song.descriptionText = LoremIpsum.wordsWithNumber(40)
